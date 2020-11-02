@@ -1,0 +1,14 @@
+AT
+
+AT+RST
+
+AT+GMR
+
+AT+CWMODE=3
+
+AT+CWLAP
+
+AT+CWJAP="ORL","orl_india"
+
+AT+CIFSR
+
